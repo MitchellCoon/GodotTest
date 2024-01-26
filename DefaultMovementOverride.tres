@@ -1,0 +1,19 @@
+[gd_resource type="Resource" load_steps=2 format=3 uid="uid://dmx2ijkjo2l4t"]
+
+[ext_resource type="Script" path="res://MovementOverride.cs" id="1_ysbp6"]
+
+[resource]
+script = ExtResource("1_ysbp6")
+Speed = 300.0
+JumpVelocity = -400.0
+Acceleration = 800.0
+Friction = 1000.0
+GravityScale = 1.0
+DefaultGravityScale = 1.0
+AirResistance = 200.0
+maxAirJumps = 1
+terminalVelocity = 300.0
+jumpHeight = 300.0
+downwardMovementMultiplier = 2.0
+upwardMovementMultiplier = 1.0
+upwardMovementShortJumpMultiplier = 3.0

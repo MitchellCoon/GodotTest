@@ -1,0 +1,23 @@
+[gd_scene load_steps=4 format=3 uid="uid://bnrax1j2csf3l"]
+
+[ext_resource type="Texture2D" uid="uid://b1c1j22ghmang" path="res://Assets/Tilesets/Tiles/Square.png" id="1_qvxy6"]
+
+[sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_k6uv5"]
+texture = ExtResource("1_qvxy6")
+texture_region_size = Vector2i(256, 256)
+0:0/0 = 0
+0:0/0/physics_layer_0/linear_velocity = Vector2(0, 0)
+0:0/0/physics_layer_0/angular_velocity = 0.0
+0:0/0/physics_layer_0/polygon_0/points = PackedVector2Array(-128, -128, 128, -128, 128, 128, -128, 128)
+
+[sub_resource type="TileSet" id="TileSet_mdxyy"]
+tile_size = Vector2i(256, 256)
+physics_layer_0/collision_layer = 1
+physics_layer_0/collision_mask = 0
+sources/21 = SubResource("TileSetAtlasSource_k6uv5")
+
+[node name="Level" type="Node2D"]
+
+[node name="TileMap" type="TileMap" parent="."]
+tile_set = SubResource("TileSet_mdxyy")
+format = 2

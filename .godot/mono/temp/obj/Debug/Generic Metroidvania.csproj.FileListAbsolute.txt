@@ -1,0 +1,17 @@
+C:\Repos\Generic Metroidvania Godot\.godot\mono\temp\bin\Debug\Generic Metroidvania.deps.json
+C:\Repos\Generic Metroidvania Godot\.godot\mono\temp\bin\Debug\Generic Metroidvania.runtimeconfig.json
+C:\Repos\Generic Metroidvania Godot\.godot\mono\temp\bin\Debug\Generic Metroidvania.dll
+C:\Repos\Generic Metroidvania Godot\.godot\mono\temp\bin\Debug\Generic Metroidvania.pdb
+C:\Repos\Generic Metroidvania Godot\.godot\mono\temp\bin\Debug\GodotSharp.dll
+C:\Repos\Generic Metroidvania Godot\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+C:\Repos\Generic Metroidvania Godot\.godot\mono\temp\obj\Debug\Generic Metroidvania.csproj.AssemblyReference.cache
+C:\Repos\Generic Metroidvania Godot\.godot\mono\temp\obj\Debug\Generic Metroidvania.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Generic Metroidvania Godot\.godot\mono\temp\obj\Debug\Generic Metroidvania.AssemblyInfoInputs.cache
+C:\Repos\Generic Metroidvania Godot\.godot\mono\temp\obj\Debug\Generic Metroidvania.AssemblyInfo.cs
+C:\Repos\Generic Metroidvania Godot\.godot\mono\temp\obj\Debug\Generic Metroidvania.csproj.CoreCompileInputs.cache
+C:\Repos\Generic Metroidvania Godot\.godot\mono\temp\obj\Debug\Generic Metroidvania.csproj.CopyComplete
+C:\Repos\Generic Metroidvania Godot\.godot\mono\temp\obj\Debug\Generic Metroidvania.dll
+C:\Repos\Generic Metroidvania Godot\.godot\mono\temp\obj\Debug\refint\Generic Metroidvania.dll
+C:\Repos\Generic Metroidvania Godot\.godot\mono\temp\obj\Debug\Generic Metroidvania.pdb
+C:\Repos\Generic Metroidvania Godot\.godot\mono\temp\obj\Debug\Generic Metroidvania.genruntimeconfig.cache
+C:\Repos\Generic Metroidvania Godot\.godot\mono\temp\obj\Debug\ref\Generic Metroidvania.dll
